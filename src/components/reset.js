@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import dotenv from 'dotenv';
-dotenv.config();
 
 
 
